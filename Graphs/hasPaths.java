@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class hasPaths {
    static class Edge {
       int src;
       int nbr;
