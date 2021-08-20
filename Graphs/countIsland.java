@@ -45,10 +45,8 @@ public class countIsland {
        drawTreeForComponent(arr, i, j+1, visited);
        drawTreeForComponent(arr, i, j-1, visited);
        drawTreeForComponent(arr, i+1, j, visited);
-       //calls->open , base case-> logical
-       
+       //calls->open , base case-> logical   
    }
-
 }
 
 
